@@ -1,5 +1,5 @@
 
-export const options = {
+export const geoApiOptions = {
     method: 'GET',
     
     headers: {
@@ -9,4 +9,4 @@ export const options = {
   };
   export const API_URL='https://wft-geo-db.p.rapidapi.com/v1/geo/'
   
-  
+ 
